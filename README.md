@@ -1,2 +1,2 @@
 # caca-palavras
-Atividade escolar para desenvolver um caça-palavras durante as aulas utilizando HTML, JS e CSS
+Caça-palavras temático realizado para as aulas do curso técnico de desenvolvimento de sistemas. 
